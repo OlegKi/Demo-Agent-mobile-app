@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition/>
+        <condition_order/>
+        <item_view display_value="Incidents item view">15eb159cdbac401095a810825b9619e5</item_view>
+        <name>Master Item</name>
+        <screen display_value="Incidents">adeb559cdbac401095a810825b96190c</screen>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>Oleg.Kiriljuk</sys_created_by>
+        <sys_created_on>2019-10-13 08:49:51</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>fdeb559cdbac401095a810825b961936</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Master Item</sys_name>
+        <sys_package display_value="Demo Agent mobile app" source="x_bsnag_demo_agent">7c781d5cdb6c401095a810825b961930</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Demo Agent mobile app">7c781d5cdb6c401095a810825b961930</sys_scope>
+        <sys_update_name>sys_sg_master_item_fdeb559cdbac401095a810825b961936</sys_update_name>
+        <sys_updated_by>Oleg.Kiriljuk</sys_updated_by>
+        <sys_updated_on>2019-10-13 08:49:51</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_master_item>
+</record_update>
